@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 📈 **My GitHub stats:** <br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=datalogism&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" /> 
+
+
+### 🗨️ **Get in touch:**
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ringwaldcelian/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ringwald_c)
