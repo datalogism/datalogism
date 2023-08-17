@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 ### **My GitHub stats:** <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datalogism&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [Stats](https://github-readme-streak-stats.herokuapp.com/?user=datalogism)
 
 ### 🗨️ **Get in touch:**
