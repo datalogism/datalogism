@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 ### **My GitHub stats:** <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datalogism&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=datalogism&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[Stats](https://github-readme-streak-stats.herokuapp.com/?user=datalogism)
 
 ### 🗨️ **Get in touch:**
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ringwaldcelian/)
