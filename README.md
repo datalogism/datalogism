@@ -20,4 +20,3 @@ It gathers projects done since 2018, from my work as Datascientist ([1](https://
 ### 🗨️ **Get in touch:**
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ringwaldcelian/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ringwald_c)
-[![HAL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ringwald_c)
