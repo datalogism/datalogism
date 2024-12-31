@@ -1,7 +1,7 @@
 # Welcome on my github laboratory
-![./datalogism.github.io/blob/main/assets/img/modif2.jpg](https://datalogism.github.io/assets/img/modif2.jpg)
-
 It gathers projects done since 2018, from my work as Datascientist ([1](https://github.com/datalogism/AdjustedNearestNeighborAlgo),[2](https://github.com/datalogism/toolbox),[3](https://github.com/datalogism/AgentBasedModels)) to DH student([4](https://github.com/datalogism/lifranum-carto),[5](https://github.com/datalogism/BioToSem)), Programming Historian editor ([6](PH_analysis),[7](https://datalogism.github.io/22062022_DHnord/#/)) and later as engineer at Inria as [DBpedia Fr](https://fr.dbpedia.org/) maintainer ([7](https://github.com/Wimmics/dbpedia-virtuoso-sparql-endpoint-quickstart),[8](https://github.com/datalogism/extraction-framework/tree/gsoc-celian),[9](https://github.com/datalogism/extraction-framework/tree/dbpedia-history/history)).
+
+![./datalogism.github.io/blob/main/assets/img/modif2.jpg](https://datalogism.github.io/assets/img/modif2.jpg)
 
  &#x1F50D; Today i'm Phd Student and my recent projects are related to GenIA and Semantic Web technologies : 
 - [https://github.com/datalogism/DrawMeASOneOfYourTriple](https://github.com/datalogism/DrawMeASOneOfYourTriple)
